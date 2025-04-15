@@ -191,5 +191,3 @@ function x(aux) {
 
   return "Não";
 }
-
-console.log(x("deu erro no atendimento"));
